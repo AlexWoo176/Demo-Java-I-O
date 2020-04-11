@@ -1,0 +1,12 @@
+Student Name: Alex
+Test Scores: 78.90 75.30 52.90 
+Average test score: 69.03 
+
+Student Name: John
+Test Scores: 85.10 85.20 91.30 
+Average test score: 87.20 
+
+Student Name: Shelly
+Test Scores: 85.30 92.30 81.90 
+Average test score: 86.50 
+
