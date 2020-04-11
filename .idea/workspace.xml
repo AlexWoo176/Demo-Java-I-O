@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47fac1cc-199f-4917-a1d2-d35c9bf273c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aNop7NdTgo8NgNjsstrNKRUuMw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.DemoCopyFile">
+    <configuration name="DemoAppendFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="write.to.file.DemoAppendFile" />
+      <module name="Demo-Java-IO" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoBufferedWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="write.to.file.DemoBufferedWriter" />
+      <module name="Demo-Java-IO" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoCopyFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="copy.to.file.DemoCopyFile" />
+      <module name="Demo-Java-IO" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoRenameFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rename.to.file.DemoRenameFile" />
+      <module name="Demo-Java-IO" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="read.to.file.Test" />
+      <module name="Demo-Java-IO" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DemoBufferedWriter" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.DemoAppendFile" />
+      <item itemvalue="Application.DemoRenameFile" />
+      <item itemvalue="Application.DemoCopyFile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoCopyFile" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.DemoRenameFile" />
+        <item itemvalue="Application.DemoAppendFile" />
+        <item itemvalue="Application.DemoBufferedWriter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47fac1cc-199f-4917-a1d2-d35c9bf273c1" name="Default Changelist" comment="" />
+      <created>1586585591032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586585591032</updated>
+      <workItem from="1586585592504" duration="8103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1554" height="189" key="GridCell.Tab.0.bottom" timestamp="1586596952147">
+      <screen x="0" y="27" width="1600" height="800" />
+    </state>
+    <state width="1554" height="189" key="GridCell.Tab.0.bottom/0.27.1600.800@0.27.1600.800" timestamp="1586596952147" />
+    <state width="1554" height="189" key="GridCell.Tab.0.center" timestamp="1586596952146">
+      <screen x="0" y="27" width="1600" height="800" />
+    </state>
+    <state width="1554" height="189" key="GridCell.Tab.0.center/0.27.1600.800@0.27.1600.800" timestamp="1586596952146" />
+    <state width="1554" height="189" key="GridCell.Tab.0.left" timestamp="1586596952146">
+      <screen x="0" y="27" width="1600" height="800" />
+    </state>
+    <state width="1554" height="189" key="GridCell.Tab.0.left/0.27.1600.800@0.27.1600.800" timestamp="1586596952146" />
+    <state width="1554" height="189" key="GridCell.Tab.0.right" timestamp="1586596952147">
+      <screen x="0" y="27" width="1600" height="800" />
+    </state>
+    <state width="1554" height="189" key="GridCell.Tab.0.right/0.27.1600.800@0.27.1600.800" timestamp="1586596952147" />
+  </component>
+</project>
